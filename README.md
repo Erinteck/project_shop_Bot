@@ -149,4 +149,7 @@ project_name/
 ├── requirements.txt     # List of required libraries
 └── .env                 # Environment variables file
 ```
+## 🙋 Developed by
+
+[Matin Ebadi (GitHub)](https://github.com/matinebadi)
 
